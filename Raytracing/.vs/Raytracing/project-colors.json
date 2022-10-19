@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "96df6c09-ec5d-4028-9f5f-1158997a0437": {
+      "ProjectGuid": "96df6c09-ec5d-4028-9f5f-1158997a0437",
+      "DisplayName": "Raytracing",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
