@@ -1,1 +1,2 @@
 C:\Users\2016020\Desktop\Raytracing\Raytracing\x64\Debug\Raytracing.exe
+D:\Users\2016020\Desktop\Data(GitHub)\Raytracing\Raytracing\x64\Debug\Raytracing.exe
